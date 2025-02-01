@@ -1,9 +1,9 @@
-# Project Title: Knowlwdge-Cafe-React
+# Project Title: Knowledge-Cafe-React
 
 
 ## Live Project
 You can view the live version of the project by clicking the link below:
-[Live Project Link](https://knowledge-cafe-react.netlify.app/)
+[Live Project Link](https://knowlwdge-cafe-react.netlify.app/)
 
 ## Project Overview
 
